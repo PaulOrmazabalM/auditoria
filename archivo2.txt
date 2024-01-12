@@ -1,0 +1,3 @@
+cambios al archivo 2 
+y vamos a verificar 
+con el comando diff
